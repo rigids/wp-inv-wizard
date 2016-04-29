@@ -23,5 +23,8 @@ require( 'inc/invoicewizard_registerfields.php');
 // add scripts and styles /ck
 require('inc/invoicewizard_enqueue.php');
 
+//invoicewizard page templates
+require( 'inc/invoicewizard_pagetemplates.php');
+
 //invoicewizard options page
 require( 'inc/invoicewizard_options.php');
