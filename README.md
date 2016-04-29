@@ -1,6 +1,5 @@
-# service-directory
-Service directory plugin for wordpress
+# WP-Invoice Wizard
 
-Built to facilitate a directory site by adding content from front end
+Simple invoicing system for Wordpress
 
-hooks into the google maps api in various ways
+Front end still TBD
