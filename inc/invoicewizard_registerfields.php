@@ -151,6 +151,21 @@ if(function_exists("register_field_group"))
 				'maxlength' => '',
 			),
 			array (
+				'key' => 'field_572768057c108',
+				'label' => 'Status',
+				'name' => 'status',
+				'type' => 'select',
+				'required' => 1,
+				'choices' => array (
+					'Unsent' => 'Unsent',
+					'Sent' => 'Sent',
+					'Paid' => 'Paid',
+				),
+				'default_value' => '',
+				'allow_null' => 0,
+				'multiple' => 0,
+			),
+			array (
 				'key' => 'field_57191e5ea0432',
 				'label' => 'Line Item',
 				'name' => 'line_item',
